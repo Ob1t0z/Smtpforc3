@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # ; Coded By: Ob1t0
 # ; Version: 1.0
 # ; Gr33tz: No Name
