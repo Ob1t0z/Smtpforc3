@@ -1,8 +1,9 @@
 #!/usr/bin/env python
-# ; Coded By: Ob1t0
+# ; Recoded By: Ob1t0
+# ; Coded By: Ian GPX
 # ; Version: 1.0
 # ; Gr33tz: No Name
-# ; Require: SmtpLib, and Python 3.6 +
+# ; Require: SmtpLib, and Python 3.X +
 class SmtpForc3:
     import argparse, smtplib
 
